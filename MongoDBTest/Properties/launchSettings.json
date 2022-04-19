@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MongoDBTest": {
+      "commandName": "Project",
+      "commandLineArgs": "get-all-items",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

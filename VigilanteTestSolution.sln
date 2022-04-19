@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVHelperTest", "CSVHelperTest\CSVHelperTest.csproj", "{25474F0A-4D98-4BC0-B0BA-5A97AC5EEB0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBTest", "MongoDBTest\MongoDBTest.csproj", "{12F70DED-EBFA-4722-9E95-FE13BE4CA0DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{25474F0A-4D98-4BC0-B0BA-5A97AC5EEB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25474F0A-4D98-4BC0-B0BA-5A97AC5EEB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25474F0A-4D98-4BC0-B0BA-5A97AC5EEB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F70DED-EBFA-4722-9E95-FE13BE4CA0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F70DED-EBFA-4722-9E95-FE13BE4CA0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F70DED-EBFA-4722-9E95-FE13BE4CA0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F70DED-EBFA-4722-9E95-FE13BE4CA0DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
